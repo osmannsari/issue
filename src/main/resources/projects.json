@@ -1,0 +1,30 @@
+[
+  {
+    "_class": "com.osmans.issue-management.entity.Project",
+    "projectCode" : "SR",
+    "projectName": "Issue Management Project"
+  },
+  {
+    "_class": "com.osmans.issue-management.entity.Project",
+    "projectCode" : "ERP-S",
+    "projectName": "ERP Project for Sales"
+  },
+  {
+    "_class": "com.osmans.issue-management.entity.Project",
+    "projectCode" : "CRM-S",
+    "projectName": "CRM Project for Sales"
+  },
+  {
+    "_class": "com.osmans.issue-management.entity.User",
+    "username" : "osmannsari",
+    "nameSurname": "Osman SARI",
+    "email": "osman.sari@gmail.com"
+  },
+  {
+    "_class": "com.osmans.issue-management.entity.User",
+    "username" : "osmann2sari",
+    "nameSurname": "Osman SARI2",
+    "email": "osman2.sari@gmail.com"
+  }
+]
+
